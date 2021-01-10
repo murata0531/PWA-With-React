@@ -1,6 +1,6 @@
 # PWA-with-React
 
-px create-react-app my-app --template cra-template-pwa
+npx create-react-app my-app --template cra-template-pwa
 
 PWAはwebサイト上でネイティブアプリのようなUXを提供する仕組み
 
